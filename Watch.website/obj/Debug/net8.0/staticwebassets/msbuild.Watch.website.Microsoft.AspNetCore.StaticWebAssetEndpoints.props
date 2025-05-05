@@ -1240,13 +1240,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\bootstrap.min.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3xBDQILol1/dVMxa4lr2sbXD1ydUW/pwXTAg6O/lGEM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"155590"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223xBDQILol1/dVMxa4lr2sbXD1ydUW/pwXTAg6O/lGEM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Dec 2021 05:15:52 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"155590"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223xBDQILol1/dVMxa4lr2sbXD1ydUW/pwXTAg6O/lGEM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 08:20:15 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Watch.website/assets/css/bootstrap.min.h05jfgqcqm.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\bootstrap.min.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h05jfgqcqm"},{"Name":"integrity","Value":"sha256-3xBDQILol1/dVMxa4lr2sbXD1ydUW/pwXTAg6O/lGEM="},{"Name":"label","Value":"_content/Watch.website/assets/css/bootstrap.min.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"155590"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223xBDQILol1/dVMxa4lr2sbXD1ydUW/pwXTAg6O/lGEM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Dec 2021 05:15:52 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"155590"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00223xBDQILol1/dVMxa4lr2sbXD1ydUW/pwXTAg6O/lGEM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 08:20:15 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Watch.website/assets/css/font-awesome.min.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\font-awesome.min.css'))</AssetFile>

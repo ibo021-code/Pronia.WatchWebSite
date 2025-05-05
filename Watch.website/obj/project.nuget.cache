@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7oP3BjSF/uk=",
+  "dgSpecHash": "lVX3VK0TXS4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Watch.website.csproj",
+  "projectFilePath": "C:\\Users\\memme\\OneDrive\\Masaüstü\\Watch.website\\Watch.website\\Watch.website.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\memme\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\memme\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

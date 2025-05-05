@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Watch.website")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd7cd96f42c343b906b4433f897f7107973066f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Watch.website")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Watch.website")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
