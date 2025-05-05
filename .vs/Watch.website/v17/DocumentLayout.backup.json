@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\memme\\source\\repos\\Watch.website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\wwwroot\\assets\\css\\animate.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\wwwroot\\assets\\css\\animate.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\wwwroot\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\wwwroot\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\migrations\\20250503105628_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\migrations\\20250503105628_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\watch.website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\watch.website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\source\\repos\\watch.website\\watch.website\\migrations\\20250503123155_createe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\migrations\\20250503123155_createe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "Watch.website\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "RelativeToolTip": "Watch.website\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-05T07:22:01.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "animate.min.css",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\wwwroot\\assets\\css\\animate.min.css",
+              "RelativeDocumentMoniker": "Watch.website\\wwwroot\\assets\\css\\animate.min.css",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\wwwroot\\assets\\css\\animate.min.css",
+              "RelativeToolTip": "Watch.website\\wwwroot\\assets\\css\\animate.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-05T07:21:58.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T06:43:06.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T05:48:17.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T06:00:43.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Watch.website\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T12:03:44.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T05:35:51.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T06:06:50.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Program.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Program.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Program.cs",
+              "RelativeToolTip": "Watch.website\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:55:34.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:03:43.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Watch.website\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T15:45:37.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T05:35:21.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Watch.website\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T12:03:18.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Watch.website\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Watch.website\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-05T05:33:35.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\appsettings.json",
+              "RelativeDocumentMoniker": "Watch.website\\appsettings.json",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\appsettings.json",
+              "RelativeToolTip": "Watch.website\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T17:28:19.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\ViewModels\\DetailVM.cs",
+              "RelativeDocumentMoniker": "Watch.website\\ViewModels\\DetailVM.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\ViewModels\\DetailVM.cs",
+              "RelativeToolTip": "Watch.website\\ViewModels\\DetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:39:52.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Views\\Shop\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Views\\Shop\\Detail.cshtml",
+              "RelativeToolTip": "Watch.website\\Views\\Shop\\Detail.cshtml",
+              "ViewState": "AgIAAOsBAAAAAAAAAAAAAAgCAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T15:05:49.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Watch.website\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:03:28.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Watch.website\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "Watch.website\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:23:25.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Watch.website\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKACAAAAAAAAAAAAAP8BAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T12:02:52.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Watch.website\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:48:40.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Watch.website\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Watch.website\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:35:11.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Watch.website\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:26:35.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Models\\ProductImage.cs",
+              "RelativeToolTip": "Watch.website\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:56:04.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250503123155_Createe.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Migrations\\20250503123155_Createe.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Migrations\\20250503123155_Createe.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Migrations\\20250503123155_Createe.cs",
+              "RelativeToolTip": "Watch.website\\Migrations\\20250503123155_Createe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:31:55.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Watch.website\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:47:50.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Models\\Category.cs",
+              "RelativeToolTip": "Watch.website\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:53:06.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Models\\Product.cs",
+              "RelativeToolTip": "Watch.website\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:49:14.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Models\\Slide.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Models\\Slide.cs",
+              "RelativeToolTip": "Watch.website\\Models\\Slide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:16:59.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250503105628_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Migrations\\20250503105628_Initial.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Migrations\\20250503105628_Initial.cs",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Migrations\\20250503105628_Initial.cs",
+              "RelativeToolTip": "Watch.website\\Migrations\\20250503105628_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:56:28.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Watch.website.csproj",
+              "DocumentMoniker": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Watch.website.csproj",
+              "RelativeDocumentMoniker": "Watch.website\\Watch.website.csproj",
+              "ToolTip": "C:\\Users\\memme\\source\\repos\\Watch.website\\Watch.website\\Watch.website.csproj",
+              "RelativeToolTip": "Watch.website\\Watch.website.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-02T11:58:19.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
