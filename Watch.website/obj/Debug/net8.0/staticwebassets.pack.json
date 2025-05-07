@@ -1045,8 +1045,16 @@
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\Casio.jpg"
     },
     {
+      "Id": "C:\\Users\\memme\\OneDrive\\Masaüstü\\Watch.website\\Watch.website\\wwwroot\\assets\\images\\website-images\\Casio.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\Casio.webp"
+    },
+    {
       "Id": "C:\\Users\\memme\\OneDrive\\Masaüstü\\Watch.website\\Watch.website\\wwwroot\\assets\\images\\website-images\\Certina.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\Certina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\memme\\OneDrive\\Masaüstü\\Watch.website\\Watch.website\\wwwroot\\assets\\images\\website-images\\Certina.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\Certina.webp"
     },
     {
       "Id": "C:\\Users\\memme\\OneDrive\\Masaüstü\\Watch.website\\Watch.website\\wwwroot\\assets\\images\\website-images\\Naviforce.jpg",

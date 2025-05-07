@@ -261,7 +261,9 @@ wwwroot\assets\images\website-images\AppleWatch.jpg
 wwwroot\assets\images\website-images\car.png
 wwwroot\assets\images\website-images\card.png
 wwwroot\assets\images\website-images\Casio.jpg
+wwwroot\assets\images\website-images\Casio.webp
 wwwroot\assets\images\website-images\Certina.jpg
+wwwroot\assets\images\website-images\Certina.webp
 wwwroot\assets\images\website-images\dark.png
 wwwroot\assets\images\website-images\Naviforce.jpg
 wwwroot\assets\images\website-images\quotation.png

@@ -89,7 +89,22 @@ namespace Watch.website.Areas.Admin.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id is null || id <= 0) BadRequest();
 
+            Category? category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
+
+            if (category is null) return NotFound();
+
+           _context.Categories.Remove(category);
+
+
+            category.IsDeleted = true;
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+        }
 
     }
 }

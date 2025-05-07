@@ -3,20 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\slide\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\viewmodels\\slides\\getslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\viewmodels\\slides\\getslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\viewmodels\\slides\\createslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\viewmodels\\slides\\createslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,20 +83,8 @@
       "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,10 +155,6 @@
       "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|c:\\users\\memme\\onedrive\\masa\u00FCst\u00FC\\watch.website\\watch.website\\watch.website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F68B3BD5-9405-4D80-9CCC-CA8215080878}|Watch.website\\Watch.website.csproj|solutionrelative:watch.website\\watch.website.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -142,37 +170,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Category\\Update.cshtml*",
-              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Views\\Category\\Update.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T20:15:19.707Z",
+              "DocumentIndex": 2,
+              "Title": "GetSlideVM.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\ViewModels\\Slides\\GetSlideVM.cs",
+              "RelativeDocumentMoniker": "Watch.website\\ViewModels\\Slides\\GetSlideVM.cs",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\ViewModels\\Slides\\GetSlideVM.cs*",
+              "RelativeToolTip": "Watch.website\\ViewModels\\Slides\\GetSlideVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:27:31.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T14:47:08.488Z",
+              "DocumentIndex": 5,
+              "Title": "CreateSlideVM.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\ViewModels\\Slides\\CreateSlideVM.cs",
+              "RelativeDocumentMoniker": "Watch.website\\ViewModels\\Slides\\CreateSlideVM.cs",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\ViewModels\\Slides\\CreateSlideVM.cs*",
+              "RelativeToolTip": "Watch.website\\ViewModels\\Slides\\CreateSlideVM.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:56:27.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Utilities\\Enums\\FileSize.cs*",
+              "RelativeToolTip": "Watch.website\\Utilities\\Enums\\FileSize.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:36:14.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Utilities\\Extensions\\FileValidator.cs*",
+              "RelativeToolTip": "Watch.website\\Utilities\\Extensions\\FileValidator.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:25:12.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Slide\\Create.cshtml*",
+              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Views\\Slide\\Create.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T14:26:38.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Slide\\Index.cshtml*",
+              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Views\\Slide\\Index.cshtml*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T14:11:54.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SlideController.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Controllers\\SlideController.cs*",
+              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Controllers\\SlideController.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:09:46.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T06:00:43.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "Watch.website\\Models\\Slide.cs",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Models\\Slide.cs*",
+              "RelativeToolTip": "Watch.website\\Models\\Slide.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:16:59.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T05:35:51.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Watch.website\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T12:03:44.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "animate.min.css",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\wwwroot\\assets\\css\\animate.min.css",
               "RelativeDocumentMoniker": "Watch.website\\wwwroot\\assets\\css\\animate.min.css",
@@ -185,42 +330,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T06:00:43.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Watch.website\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Watch.website\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T12:03:44.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T05:35:51.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\Category\\Index.cshtml",
@@ -233,7 +342,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T14:47:08.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T20:15:19.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Program.cs",
               "RelativeDocumentMoniker": "Watch.website\\Program.cs",
@@ -245,20 +379,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Controllers\\CategoryController.cs*",
-              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Controllers\\CategoryController.cs*",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFoAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Watch.website\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T06:03:43.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Watch.website\\Models\\Category.cs",
@@ -266,12 +400,11 @@
               "RelativeToolTip": "Watch.website\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T11:53:06.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T11:53:06.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
@@ -283,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -295,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "bootstrap.min.css",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\wwwroot\\assets\\css\\bootstrap.min.css",
               "RelativeDocumentMoniker": "Watch.website\\wwwroot\\assets\\css\\bootstrap.min.css",
@@ -307,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Watch.website\\Views\\_ViewImports.cshtml",
@@ -319,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Watch.website\\Areas\\Admin\\Controllers\\HomeController.cs",
@@ -331,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Watch.website\\Views\\Shared\\_Layout.cshtml",
@@ -343,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "Watch.website\\ScaffoldingReadMe.txt",
@@ -355,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\appsettings.json",
               "RelativeDocumentMoniker": "Watch.website\\appsettings.json",
@@ -367,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "DetailVM.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\ViewModels\\DetailVM.cs",
               "RelativeDocumentMoniker": "Watch.website\\ViewModels\\DetailVM.cs",
@@ -379,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Views\\Shop\\Detail.cshtml",
               "RelativeDocumentMoniker": "Watch.website\\Views\\Shop\\Detail.cshtml",
@@ -391,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "Watch.website\\Controllers\\ShopController.cs",
@@ -403,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "Watch.website\\ViewModels\\HomeVM.cs",
@@ -415,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Watch.website\\Views\\Home\\Index.cshtml",
@@ -427,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Watch.website\\Controllers\\HomeController.cs",
@@ -439,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Watch.website\\DAL\\AppDbContext.cs",
@@ -451,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Watch.website\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -463,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Models\\ProductImage.cs",
               "RelativeDocumentMoniker": "Watch.website\\Models\\ProductImage.cs",
@@ -475,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "20250503123155_Createe.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Migrations\\20250503123155_Createe.cs",
               "RelativeDocumentMoniker": "Watch.website\\Migrations\\20250503123155_Createe.cs",
@@ -487,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Watch.website\\Models\\Base\\BaseEntity.cs",
@@ -499,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Watch.website\\Models\\Product.cs",
@@ -511,19 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Slide.cs",
-              "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Models\\Slide.cs",
-              "RelativeDocumentMoniker": "Watch.website\\Models\\Slide.cs",
-              "ToolTip": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Models\\Slide.cs",
-              "RelativeToolTip": "Watch.website\\Models\\Slide.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T12:16:59.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "20250503105628_Initial.cs",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Migrations\\20250503105628_Initial.cs",
               "RelativeDocumentMoniker": "Watch.website\\Migrations\\20250503105628_Initial.cs",
@@ -535,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "Watch.website.csproj",
               "DocumentMoniker": "C:\\Users\\memme\\OneDrive\\Masa\u00FCst\u00FC\\Watch.website\\Watch.website\\Watch.website.csproj",
               "RelativeDocumentMoniker": "Watch.website\\Watch.website.csproj",
