@@ -95,20 +95,67 @@ namespace Watch.website.Areas.Admin.Controllers
            
 
 
-            //return Content(slide.Photo.FileName+" "+slide.Photo.ContentType+" "+slide.Photo.Length);
+
+        }
+
+        public async Task<IActionResult> Update(int? id)
+        {
+            if (id is null || id <= 0) return BadRequest();
+
+            Slide? slide = await _context.Slides.FirstOrDefaultAsync(s => s.Id == id);
+            if (slide is null) return NotFound();
+            UpdateSlideVM slideVM = new UpdateSlideVM
+            {
+               
+                Title = slide.Title,
+                SubTitle = slide.SubTitle,
+                Description = slide.Description,
+                Order = slide.Order,
+                Image = slide.Image,
+            };
+            return View(slideVM);
+        }
+        [HttpPost]
+        public async Task<IActionResult> Update(int? id, UpdateSlideVM slideVM)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(slideVM);
+            }
+            Slide? existed = await _context.Slides.FirstOrDefaultAsync(s => s.Id == id);
+            if (existed is null) return NotFound();
+            if (slideVM.Photo is not null)
+            { 
+            
+                if (slideVM.Photo.ValidateType("image/"))
+                {
+                    ModelState.AddModelError(nameof(UpdateSlideVM.Photo), "Please select a valid image file");
+                    return View(slideVM);
+                }
+                if (slideVM.Photo.ValidateSize(FileSize.MB, 1))
+                {
+                    ModelState.AddModelError(nameof(CreateSlideVM.Photo), "File size must be less than 1MB");
+                    return View(slideVM);
+                }
+               string Filename =await slideVM.Photo.CreateFileAsync(_env.WebRootPath, "assets", "images", "website-images");
+                existed.Image.DeleteFile(_env.WebRootPath, "assets", "images", "website-images");
+                existed.Image = Filename;
+
+            }
+            existed.Title = slideVM.Title;
+            existed.SubTitle = slideVM.SubTitle;
+            existed.Description = slideVM.Description;
+            existed.Order = slideVM.Order;
+
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
 
 
 
-
-
-
-
-            //if (!ModelState.IsValid)  return View();
 
 
 
         }
-
         public async Task<IActionResult> Delete(int? id)
         {
             if(id == null || id<=0) return BadRequest();
@@ -125,3 +172,6 @@ namespace Watch.website.Areas.Admin.Controllers
         }
     }
 }
+
+            //return Content(slide.Photo.FileName+" "+slide.Photo.ContentType+" "+slide.Photo.Length);
+            //if (!ModelState.IsValid)  return View();
